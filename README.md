@@ -12,15 +12,15 @@
 ### Connect with me:
 <div id="badges">
    <a href="#">
-    <img style="height:53px; border-radius: 25%;" src="TwitterX.png" alt="Twitter Badge"/>
+    <img style="height:53px; border-radius: 25%;" src="https://skillicons.dev/icons?i=twitter" alt="Twitter Badge"/>
   </a>
  <a href="#">
-    <img style="height:50px; border-radius: 25%;" src="linkedin(1).png" alt="linkdin Badge"/>
+    <img style="height:50px; border-radius: 25%;" src="https://skillicons.dev/icons?i=linkedin" alt="linkdin Badge"/>
   </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,sql,dbms,vscode,idea,github,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,sql,dbms,vscode,c,idea,github,git&perline=5)](https://skillicons.dev)
 
 ![nitin07022005- GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin07022005&show_icons=true&theme=dark)
 
